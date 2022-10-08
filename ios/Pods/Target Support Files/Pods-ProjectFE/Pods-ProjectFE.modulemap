@@ -1,0 +1,6 @@
+module Pods_ProjectFE {
+  umbrella header "Pods-ProjectFE-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_ProjectFE_ProjectFETests {
+  umbrella header "Pods-ProjectFE-ProjectFETests-umbrella.h"
+
+  export *
+  module * { export * }
+}
